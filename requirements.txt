@@ -1,9 +1,7 @@
 streamlit
 opencv-python-headless
 ultralytics==8.3.0
-torch --index-url 
-torchvision --index-url 
+torch
+torchvision
 numpy<2.0.0
-pandas
-matplotlib
 Pillow
